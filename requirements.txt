@@ -1,0 +1,15 @@
+google-genai
+pandas
+
+python-dotenv
+groq
+IPython
+
+tensorflow
+transformers
+tf-keras
+accelerate
+bitsandbytes
+huggingface-hub
+sentencepiece
+ipykernel
