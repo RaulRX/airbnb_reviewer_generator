@@ -2,3 +2,4 @@ airbnb-ve/
 .env
 .cache
 .matplotlib-cache/
+notebook/theory/**
